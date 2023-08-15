@@ -2,7 +2,9 @@
 
 ## Overview
 
-The provided code leverages the `mediapipe` library to detect and track body poses in real-time, either from camera feeds or video files. This real-time pose detection extracts key landmarks on the body and visualizes them on the video feed. The program also calculates and displays the frames per second (FPS) to monitor performance.
+The provided code leverages the `mediapipe` library to detect and track body poses in real-time, either from camera feeds or video files.
+
+This real-time pose detection extracts key landmarks on the body and visualizes them on the video feed. The program also calculates and displays the frames per second (FPS) to monitor performance.
 
 ## Features
 
